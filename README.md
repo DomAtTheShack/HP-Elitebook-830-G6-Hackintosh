@@ -7,15 +7,15 @@ Now its booting with lots of fetures working but not everything so stay turned f
 
 ## Fetures as of Now
 
-*Wifi
-*USB
-*Sleep
-*Battery
-*Touchpad(Iffy)
-*Keyboard
+*. Wifi
+*. USB
+*. Sleep
+*. Battery
+*. Touchpad(Iffy)
+*. Keyboard
 
 ## Not working
 
-*Audio 
-*Bluetooth
+*. Audio 
+*. Bluetooth
 
