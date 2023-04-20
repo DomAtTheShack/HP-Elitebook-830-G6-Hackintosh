@@ -1,21 +1,24 @@
 # HP-Elitebook-830-G6-Hackintosh 
-Fork of the HP Elitebook 830 g6 now working as of 3/10/2023
+Fork of the HP Elitebook 830 g6 now working as of 4/20/2023
 
 # Somewhat working Now!!
 
-Now its booting with lots of fetures working but not everything so stay turned for more!
+Now its booting with lots of fetures working very usable except for a few things
 
-## Fetures as of Now
+## Fetures Working
 
 Wifi
 USB
-Sleep
-Battery
-Touchpad(Iffy)
+Sleep(Iffy)
+Touchpad
 Keyboard
+BLuetooth
+HDMI
+USB-C
+Audio
 
 ## Not working
 
-Audio 
-Bluetooth
+Bootup Is very iffy if it will boot or not. Sometimes it does sometimes it dosn't
+Battery Read outs
 
